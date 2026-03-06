@@ -3,9 +3,7 @@
   <h3>Master CS at Virginia Tech · Ex-Data Engineer at Merkle</h3>
   <p>
     <a href="mailto:0429shen@gmail.com"><strong>Email</strong></a> ·
-    <a href="https://www.linkedin.com/in/yongshenchen/" target="_blank"><strong>LinkedIn</strong></a> ·
-    <a href="https://drive.google.com/file/d/13EJh9QcAcAuSddDLfghUjx0tUIDi3AC2/view?usp=sharing" target="_blank"><strong>Resume</strong></a> ·
-    <a href="https://medium.com/@0429shen" target="_blank"><strong>Medium</strong></a>
+    <a href="https://www.linkedin.com/in/yongshenchen/" target="_blank"><strong>LinkedIn</strong></a>
   </p>
   <img src="https://komarev.com/ghpvc/?username=michaelchengithub&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
