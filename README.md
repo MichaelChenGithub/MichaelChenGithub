@@ -24,9 +24,9 @@
 
 | Project | Why it matters | Stack |
 | --- | --- | --- |
-| [**BookBridge**](https://github.com/MichaelChenGithub/BookBridge) | Spark/Airflow ETL + item2vec + Kafka routing stream conversational book recs in real time | Spark · Airflow · Kafka · item2vec · Python |
+| [**Real-time Transactional Data Lakehouse**](https://github.com/MichaelChenGithub/Real-timeTransactionalDataLakehouse) | End-to-end streaming lakehouse for short-video operations with minute-level, decision-ready outputs (`BOOST`, `REVIEW`, `RESCUE`) and auditable rule contracts | Python · Kafka · Spark Structured Streaming · Apache Iceberg · Trino · Metabase · Grafana |
+| [**BookBridge**](https://github.com/MichaelChenGithub/BookBridge) | Spark/Airflow ETL + item2vec + Kafka routing stream conversational book recs in real time | Spark · Airflow · Kafka · item2vec · Python · Google Cloud Stoarge · Dataproc |
 | [**DC Secure Transit**](https://github.com/Priscilla2424/crime_map_web) | Supabase + indexed Postgres keep 200K+ crime logs geospatially filterable with daily refreshes and no timeouts | SQL · PostgreSQL · Supabase |
-| [**PointDatabase**](https://github.com/MichaelChenGithub/PointDatabase) | Pure-Java Skip List + PR Quadtree hit log-time lookups and ms regionsearch without standard collections | Java · Custom Skip List · PR Quadtree · JUnit (TDD) |
 
 
 Link each project title to its repo, demo, or case study for quick recruiter follow-up.
