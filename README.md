@@ -1,4 +1,4 @@
-# Welcome to YongShen(Michael) Chen's Github
+# Hey, This is Michael
 
 <p align="center">
   <a href="mailto:0429shen@gmail.com">
