@@ -12,7 +12,7 @@
   </a>
 </p>
 
-**Actively looking for U.S. on-site / hybrid roles · Remote opportunities with U.S. or Taiwan teams**
+** I am Actively looking for U.S. on-site / hybrid roles · Remote opportunities with U.S. or Taiwan teams**
 
 ## About
 
